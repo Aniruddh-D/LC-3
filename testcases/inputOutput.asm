@@ -1,0 +1,5 @@
+.ORIG x3000
+TRAP x23 ; IN
+TRAP x21 ; OUT
+HALT
+.END
